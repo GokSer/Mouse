@@ -1,0 +1,19 @@
+html{
+  overflow-y: hidden;
+}
+.container {
+  width: 80vw;
+  height: 80vh;
+  background: rgba(100,100,100,0.5);
+  margin:5% auto;
+  border-radius: 500px;
+  border: 30px solid black;
+}
+.mainText{
+  pointer-events: none;
+  font-family: sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 300%;
+  margin: 25vh 18vw;
+}
